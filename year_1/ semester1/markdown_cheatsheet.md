@@ -10,3 +10,7 @@
 
 Textline
 hello
+
+* = *italics*
+** = **bold**
+*** = ***both***
