@@ -1,3 +1,4 @@
+
 # Title
 ## Heading
 ### Heading
@@ -19,10 +20,10 @@ hello
 
 # code formatting
 
-```
-put code in 
+```Python 
 
 print("hello word")
+
 ```
 
 
