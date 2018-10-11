@@ -17,4 +17,12 @@ hello
 
 [ link to gitlab](https://gitlab.cs.cf.ac.uk/c1889011/cm6113a)
 
+# code formatting
+
+```
+put code in 
+
+print("hello word")
+```
+
 
